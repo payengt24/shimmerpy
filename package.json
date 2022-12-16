@@ -42,5 +42,17 @@
       "json",
       "node"
     ]
-  }
+  },
+  "description": "shimmery hello world text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payengt24/shimmerpy.git"
+  },
+  "author": "Pa Yeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payengt24/shimmerpy/issues"
+  },
+  "homepage": "https://github.com/payengt24/shimmerpy#readme"
 }
