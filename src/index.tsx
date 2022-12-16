@@ -6,7 +6,7 @@ const ShimmerHelloWorld = () => {
   return (
     <View>
       <Shimmer>
-        <Text>Hello world</Text>
+        <Text>Hello world!</Text>
       </Shimmer>
     </View>
   );
